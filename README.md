@@ -5,27 +5,6 @@ Practical networking projects and labs demonstrating IP addressing, routing, LAN
 
 This repository contains my practical work and major assignment from the **Data Communications** unit (COMP2250) at Macquarie University. The work demonstrates hands-on experience with networking concepts, protocols, IP addressing, routing, LAN/WAN topologies, network security, and network analysis.
 
----
-
-## Repository Structure
-
-Data-Communications-Portfolio/
-│
-├── Practical-Worksheets/ ← 10 practical exercises in PDF format
-│ ├── Practical1-Subnetting.pdf
-│ ├── Practical2-Network-Protocols.pdf
-│ ├── ...
-│ └── Practical10-Network-Design.pdf
-│
-└── Assignments/ ← Major assignment
-└── Assignment1-Data-Comm-Report.pdf
-
-yaml
-Copy
-Edit
-
----
-
 ## Practical Worksheets
 
 Each practical worksheet covers different aspects of networking, including:
