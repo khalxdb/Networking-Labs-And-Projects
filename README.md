@@ -19,7 +19,7 @@ These practicals demonstrate my ability to configure, document, and analyse netw
 
 ---
 
-## Major Assignment
+## Major Assignments
 
 The assignment consolidates learning from the practicals and course lectures. It focuses on:
 
