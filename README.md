@@ -16,8 +16,6 @@ Covers hands-on exercises including:
 - Network design and performance evaluation  
 - Network security and troubleshooting  
 
-> Each practical is numbered and named for easy navigation.
-
 ---
 
 ## 📑 Major Assignments
